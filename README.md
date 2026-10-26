@@ -274,14 +274,6 @@ Suggestions, bug reports, and improvements are welcome.
 
 ---
 
-## 📄 License
-
-Refer to the repository's `LICENSE` file for the applicable terms of use, modification, and distribution.
-
-If the repository does not contain a license, clarify the licensing terms before redistributing the project or its code.
-
----
-
 ## 🔗 Repository
 
 **GitHub:** [Anuradha011/AI-Video-Assistant](https://github.com/Anuradha011/AI-Video-Assistant)
